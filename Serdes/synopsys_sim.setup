@@ -1,0 +1,11 @@
+ASSERT_STOP=FAILURE
+default : ./work
+ACCELLERA_OVL_VHDL : ./ACCELLERA_OVL_VHDL_LIB
+osvvm : /playground_lib/osvvm/VHDL_LIBS/VCS-U-2023.03-SP2/osvvm
+osvvm_common : /playground_lib/osvvm/VHDL_LIBS/VCS-U-2023.03-SP2/osvvm_common
+osvvm_uart : /playground_lib/osvvm/VHDL_LIBS/VCS-U-2023.03-SP2/osvvm_uart
+osvvm_axi4 : /playground_lib/osvvm/VHDL_LIBS/VCS-U-2023.03-SP2/osvvm_axi4
+osvvm_dpram_pt : /playground_lib/osvvm/VHDL_LIBS/VCS-U-2023.03-SP2/osvvm_dpram_pt
+osvvm_dpram : /playground_lib/osvvm/VHDL_LIBS/VCS-U-2023.03-SP2/osvvm_dpram
+osvvm_ethernet : /playground_lib/osvvm/VHDL_LIBS/VCS-U-2023.03-SP2/osvvm_ethernet
+osvvm_cosim : /playground_lib/osvvm/VHDL_LIBS/VCS-U-2023.03-SP2/osvvm_cosim
